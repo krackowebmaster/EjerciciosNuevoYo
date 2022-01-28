@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Escribe una dirección de correo electrónico a la que enviaremos esta información"
+        android:textColor="#77787b"
+        android:textSize="14sp"
+        android:layout_marginBottom="10dp" />
+
+    <EditText
+        android:id="@+id/txtMailEnviar"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_marginBottom="10dp"
+        android:text=""
+        android:textColor="@color/nuevoyo"
+        android:textSize="16sp"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"
+        android:inputType="textEmailAddress"
+        android:hint="mail@dominio.com"
+        android:ems="10"
+        android:background="@drawable/bordes_campos"
+         />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnMailCancelar"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:layout_marginEnd="10dp"
+                android:layout_weight="1"
+                android:background="@color/nuevoyo"
+                android:backgroundTint="#009fda"
+                android:fontFamily="sans-serif"
+                android:padding="2dp"
+                android:text="Cancelar"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:backgroundTint="@color/nuevoyo" />
+
+            <Button
+                android:id="@+id/btnMailEnviar"
+                android:layout_width="match_parent"
+                android:layout_height="34dp"
+                android:layout_marginStart="10dp"
+                android:layout_weight="1"
+                android:background="@color/nuevoyo"
+                android:backgroundTint="#009fda"
+                android:fontFamily="sans-serif"
+                android:padding="2dp"
+                android:text="Enviar"
+                android:textAllCaps="false"
+                android:textColor="#ffffff"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:backgroundTint="@color/nuevoyo" />
+
+        </LinearLayout>
+</LinearLayout>

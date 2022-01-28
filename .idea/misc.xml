@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/J Jorge GM/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_item.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/drawable/envia_mail_rutina.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/aceptar_responsabilidad.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_abdomen.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_biceps.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_espalda_alta.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_espalda_baja.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_hombros.xml" value="0.3569230769230769" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_instrucciones_generales.xml" value="0.5" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_integracion_aerobico_fuerza.xml" value="0.34375" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_lanzador_nuevo_yo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_main.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_muslos.xml" value="0.2" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_pantorrilla.xml" value="0.22" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_pectorales.xml" value="0.22" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_perfil.xml" value="0.33" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_rutinas.xml" value="0.25" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_triceps.xml" value="0.18" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/activity_variantes_grupo_muscular.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/envia_mail_rutina.xml" value="0.25" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/mitoolbar.xml" value="0.20625" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/notificacion_nuevas.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/J Jorge GM/EjerciciosNuevoYo/app/src/main/res/layout/notificacion_semanal.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

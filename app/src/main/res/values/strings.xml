@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicios</string>
+    <string name="act_instrucciones">Instrucciones generales</string>
+    <string name="act_integracion">Integración aeróbico y fuerza</string>
+    <string-array name="opcionesAc">
+        <item>Seleccione el nivel</item>
+        <item>Desde cero</item>
+        <item>Realiza algo</item>
+    </string-array>
+    <string-array name="opcionesDd">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>

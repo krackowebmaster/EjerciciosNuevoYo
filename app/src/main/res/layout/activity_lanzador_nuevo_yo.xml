@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".LanzadorNuevoYo">
+
+
+    <Button
+        android:id="@+id/bntNuevaNotificacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="#009FDA"
+        android:text="Notificaciones de nuevas secciones"
+        android:textColor="@color/white"
+        app:backgroundTint="#009FDA" />
+
+    <Button
+        android:id="@+id/btnNSemanal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="#009FDA"
+        android:text="Notificación semanal"
+        android:textColor="@color/white"
+        app:backgroundTint="#009FDA" />
+
+    <Button
+        android:id="@+id/btnPerfil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="#009FDA"
+        android:text="Perfil"
+        android:textColor="@color/white"
+        app:backgroundTint="#009FDA" />
+
+    <Button
+        android:id="@+id/btnEjercicios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#009FDA"
+        android:text="Ejercicios"
+        android:textColor="@color/white"
+        app:backgroundTint="#009FDA" />
+</LinearLayout>
